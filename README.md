@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building full-stack projects using MERN<br><br>🌱 Learning advanced backend concepts (auth, security, scalability)<br><br>🧠 Improving DSA & problem-solving for interviews<br><br>🛠️ Exploring Docker, Nginx, Cloud & deployment best practices
+🔭 Building full-stack projects using MERN<br><br>🌱 Learning advanced backend concepts (auth, security, scalability)<br><br>🧠 Improving DSA & problem-solving for interviews<br><br>🛠️ Exploring Docker, Nginx, Cloud & deployment best practices.
 
 
 ## 🌐 Socials:
